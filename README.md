@@ -1,1 +1,1 @@
-This is the main readme page, create explanation of entire contents of the repositry
+This is the main readme page, create explanation of entire contents of the repository when completed
